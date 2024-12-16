@@ -1,5 +1,5 @@
 {
-    "name": "Nuruwo vpm list",
+    "name": "nuruwo",
     "id": "com.nuruwo.list",
     "url": "https://nuruwo8.github.io/nuruwo-vpm-list/index.json",
     "author": {
@@ -7,7 +7,7 @@
         "email": "nuruwo999@gmail.com",
         "url": "https://github.com/nuruwo8"
     },
-    "description": "Nuruwo's listing of VRChat packages",
+    "description": "nuruwo's listing of VRChat packages",
     "infoLink": {
         "url": "https://github.com/nuruwo8/nuruwo-vpm-list",
         "text": "View on GitHub."
