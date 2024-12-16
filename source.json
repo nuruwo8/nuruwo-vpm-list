@@ -15,5 +15,6 @@
     "bannerUrl": "banner.png",
     "githubRepos": [
         "com.nuruwo.dark-class-generator"
-    ]
+    ],
+    "packages": []
 }
