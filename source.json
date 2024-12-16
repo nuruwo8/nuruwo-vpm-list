@@ -3,8 +3,8 @@
     "id": "com.nuruwo.list",
     "url": "https://nuruwo8.github.io/nuruwo-vpm-list/index.json",
     "author": {
-        "email": "nuruwo999@gmail.com",
         "name": "nuruwo",
+        "email": "nuruwo999@gmail.com",
         "url": "https://github.com/nuruwo8"
     },
     "description": "Nuruwo's listing of VRChat packages",
