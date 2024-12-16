@@ -1,7 +1,7 @@
 # nuruwo's vpm repositories
 
 ## Install
-Install the nuruwo repository list into VCC from This link.
+Install the nuruwo's repository list into VCC from This link.</br>
 [Install link](https://nuruwo8.github.io/nuruwo-vpm-list/install)
 
 ## Packages
